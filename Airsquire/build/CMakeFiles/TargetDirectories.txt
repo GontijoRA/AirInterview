@@ -1,0 +1,1 @@
+/home/roberto/Área de Trabalho/Airsquire/build/CMakeFiles/airsquire.dir
